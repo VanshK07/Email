@@ -7,8 +7,8 @@ require __DIR__ . '/vendor/autoload.php';
 // SMTP Configuration
 define('SMTP_HOST', 'smtp.gmail.com');
 define('SMTP_PORT', 587);
-define('SMTP_USERNAME', 'singhrewards32@gmail.com'); // Gmail ID
-define('SMTP_PASSWORD', 'oveccubrjcxcabvv');      // App password
+define('SMTP_USERNAME', 'youremail@gmail.com'); // Gmail ID
+define('SMTP_PASSWORD', 'yourapppassword');      // App password
 define('FROM_EMAIL', 'singhrewards32@gmail.com');
 define('FROM_NAME', 'GitHub Timeline Service');
 
